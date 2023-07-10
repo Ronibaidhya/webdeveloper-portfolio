@@ -166,3 +166,14 @@ main {
     
 
 }
+.resume-container{
+    display: flex;
+    gap: 100px;
+}
+.resume-item-institute , .resume-item-description{
+    color: #757575;
+}
+.download-cv{
+    margin-top: 50px;
+    text-align: center;
+}
